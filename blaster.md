@@ -55,7 +55,7 @@ Host Discovery:
 <td>Windows Server 2008 R2 - 2012<br />
  </td>
 <td>Yes </td>
-<td> </td>
+<td>Yes</td>
 </tr>
 </tbody>
 </table>
