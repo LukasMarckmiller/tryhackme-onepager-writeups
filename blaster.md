@@ -54,12 +54,8 @@ Host Discovery:
 <td>#0</td>
 <td>Windows Server 2008 R2 - 2012<br />
  </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>Yes </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
@@ -112,9 +108,7 @@ Version</th>
 </tr>
 </tbody>
 </table></td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -123,9 +117,7 @@ Version</th>
 <td>MSRPC</td>
 <td>Microsoft Windows RPC</td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -134,9 +126,7 @@ Version</th>
 <td>Netbios-SSN</td>
 <td>Microsoft Windows netbios-ssn</td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -145,9 +135,7 @@ Version</th>
 <td>Microsoft-ds</td>
 <td>Microsoft Windows Server 2008 R2 - 2012 microsoft-ds</td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td>Samba/Active Directory</td>
 </tr>
@@ -156,9 +144,7 @@ Version</th>
 <td>Mysql</td>
 <td><strong>Not scanned</strong></td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -180,9 +166,7 @@ Version</th>
 </tr>
 </tbody>
 </table></td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td>Remote Desktop</td>
 </tr>
@@ -191,9 +175,7 @@ Version</th>
 <td>nssocketport</td>
 <td><strong>Not scanned</strong></td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -202,9 +184,7 @@ Version</th>
 <td>wsman</td>
 <td><strong>Not scanned</strong></td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -227,9 +207,7 @@ Version</th>
 </table></td>
 <td><strong>Not scanned</strong></td>
 <td> </td>
-<td><blockquote>
-<p> </p>
-</blockquote></td>
+<td>yes </td>
 <td> </td>
 <td> </td>
 </tr>
@@ -314,11 +292,7 @@ with Admin rights</td>
 <table>
 <thead>
 <tr class="header">
-<th><ol type="1">
-<li><blockquote>
-<p>HTTP</p>
-</blockquote></li>
-</ol></th>
+<th>80 HTTP</th>
 </tr>
 </thead>
 <tbody>
@@ -345,24 +319,3 @@ as forum comment</td>
 </table>
 
  
-
-**Legend**
-
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th><blockquote>
-<p>Step Solution/Finding</p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td> </td>
-<td><blockquote>
-<p>Rabbit Hole</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
