@@ -4,7 +4,7 @@ Mittwoch, 11. November 2020
 
 22:52
 
-![the-marketplace](https://tryhackme-images.s3.amazonaws.com/room-icons/7c385ae7e0ef53362b807fffe8b69a47.png "The Marketplace")
+![the-marketplace](/images/the-marketplace.png "The Marketplace")
  
 
 Hints:
