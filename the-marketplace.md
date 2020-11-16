@@ -4,10 +4,7 @@ Mittwoch, 11. November 2020
 
 22:52
 
- 
-
-<img src="media/image1.png" style="width:7.9375in;height:1.44792in" alt="Computergenerierter Alternativtext: The Marketplace Can YOU take over The Marketplace&#39;s infrastructure? 1 135 users " />
-
+![the-marketplace](https://tryhackme-images.s3.amazonaws.com/room-icons/7c385ae7e0ef53362b807fffe8b69a47.png "The Marketplace")
  
 
 Hints:
