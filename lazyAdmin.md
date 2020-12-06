@@ -151,7 +151,7 @@ Version</p>
 </ol>
 <ol start="2" type="1">
 <li><blockquote>
-<p>ISERT INTO `%--%_options` VALUES(\'1\',\'global_setting\',\'a:17:{s:4:\\"name\\";s:25:\\"Lazy Admin&amp;#039;s Website\\";s:6:\\"author\\";s:10:\\"Lazy Admin\\";s:5:\\"title\\";s:0:\\"\\";s:8:\\"keywords\\";s:8:\\"Keywords\\";s:11:\\"description\\";s:11:\\"Description\\";s:5:\\"admin\\";s:7:\\"<strong>manager</strong>\\";s:6:\\"passwd\\";s:32:\\"<strong>42f749ade7f9e195bf475f37a44cafcb</strong>\\";s:5:\\"close\\";i:1;s:9:\\"close_tip\\";s:454:\\"&lt;p&gt;Welcome to SweetRice - Thank your for install SweetRice as your website management system.&lt;/p&gt;[…]</p>
+<p>INSERT INTO `%--%_options` VALUES(\'1\',\'global_setting\',\'a:17:{s:4:\\"name\\";s:25:\\"Lazy Admin&amp;#039;s <br>Website\\";s:6:\\"author\\";s:10:\\"Lazy Admin\\";s:5:\\"title\\";s:0:\\"\\";s:8:\\"keywords\\";s:8:\\<br>"Keywords\\";s:11:\\"description\\";s:11:\\"Description\\";s:5:\\"admin\\";s:7:\\"<strong>manager</strong><br>\\";s:6:\\"passwd\\";s:32:\\"<strong>42f749ade7f9e195bf475f37a44cafcb</strong>\\";s:5:\\"close\\";i:1;s:9:\\"close_tip<br>\\";s:454:\\"&lt;p&gt;Welcome to SweetRice - Thank your for install SweetRice as your website<br> management system.&lt;/p&gt;[…]</p>
 </blockquote></li>
 </ol>
 <ol start="3" type="1">
