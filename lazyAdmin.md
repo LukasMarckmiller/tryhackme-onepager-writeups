@@ -4,7 +4,7 @@ Sonntag, 6. Dezember 2020
 
 23:03
 
- 
+![lazyAdmin](/images/lazyAdmin.PNG "LazyAdmin")
 
 Flags:
 ======
@@ -88,7 +88,7 @@ Version</p>
 </table></td>
 <td>yes</td>
 <td> </td>
-<td> </td>
+<td>Rabbit Hole </td>
 </tr>
 <tr class="even">
 <td>80</td>
