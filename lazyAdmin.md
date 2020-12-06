@@ -269,26 +269,3 @@ Users
 </tr>
 </tbody>
 </table>
-
- 
-
-**Legend**
-
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th><blockquote>
-<p>Step Solution/Finding</p>
-</blockquote></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td> </td>
-<td><blockquote>
-<p>Rabbit Hole</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
