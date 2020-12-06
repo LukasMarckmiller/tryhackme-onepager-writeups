@@ -4,7 +4,7 @@ Sonntag, 6. Dezember 2020
 
 23:03
 
-![lazyAdmin](/images/lazyAdmin.png "LazyAdmin")
+![lazyAdmin](/images/lazyAdmin.PNG "LazyAdmin")
 
 Flags:
 ======
