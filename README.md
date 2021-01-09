@@ -4,4 +4,4 @@ There are numerous good and detailed Writeups for *TryHackMe* CTFs/Walkthroughs.
 
 ## Find me
 [tryhackme.com](https://tryhackme.com/p/L4tr0dectu5)  
-![Badge](https://github.com/LukasMarckmiller/tryhackme-onepager-writeups/blob/main/misc/LucaMarc.png)
+![Badge](https://github.com/LukasMarckmiller/tryhackme-onepager-writeups/blob/main/misc/L4tr0dectu5.png)
